@@ -83,6 +83,10 @@ a:visited {
   text-decoration: none;
 }
 
+socials a:hover {
+  text-decoration: underline;
+}
+
 #socials a:visited {
   color: white;
 } 
