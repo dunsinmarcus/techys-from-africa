@@ -47,7 +47,11 @@ h2 {
 
 #navbar-name a:link {
   text-decoration: none;
-  color: brown;
+  color: red;
+}
+
+#navbar-name a:visited {
+  color: red;
 }
 
 #nav-links a:link {
