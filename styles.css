@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+#navbar {
+  padding-top: 30px;
+  background-color: black;
+}
+
+#welcome {
+  margin: 0;
+  background-color: black;
+}
+
+#about {
+  margin: 0 10%;
+}
+
+#team {
+  margin: 0 10%;
+}
+
+h1 {
+  margin: 0;
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+#navbar-name {
+  padding-left: 5%;
+  display: inline;
+  font-size: 30px;
+  font-family: 'Source Code Pro', Cursive;
+}
+
+#nav-links {
+  padding-right: 5%;
+  margin-top: -25px;
+  display: inline;
+  font-size: 18px;
+  float: right;
+}
+
+#navbar-name a:link {
+  text-decoration: none;
+  color: brown;
+}
+
+#nav-links a:link {
+  color: white;
+  text-decoration: none;
+}
+
+#nav-links a:hover {
+  color: green;
+}
+
+#nav-links a:visited {
+  color: white;
+}
+
+a:link {
+  text-decoration: underline;
+  color: #000000;
+}
+
+a:hover {
+  text-decoration: none;
+  color: green;
+}
+
+a:visited {
+  text-decoration: underline;
+  color: #000000;
+}
+
+#heading {
+  text-align: center;
+  color: white;
+  padding-top: 100px;
+}
+
+p{
+  font-size: 20px;
+}
+
+li {
+  padding: 2px;
+  font-size: 20px;
+}
+
+h2 {
+  padding-top: 25px;
+}
+
+footer {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  text-align: center;
+  background-color: black;
+}
+
+footer a:link {
+  color: white;
+}
