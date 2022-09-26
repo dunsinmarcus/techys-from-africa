@@ -85,11 +85,12 @@ a:visited {
 }
 
 p{
+  line-height: 30px;
   font-size: 20px;
 }
 
 li {
-  padding: 2px;
+  line-height: 30px;
   font-size: 20px;
 }
 
