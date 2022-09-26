@@ -56,6 +56,7 @@ h2 {
 }
 
 #nav-links a:hover {
+  text-decoration: underline;
   color: green;
 }
 
@@ -75,8 +76,12 @@ a:hover {
 
 a:visited {
   text-decoration: underline;
-  color: white;
+  color: #000000;
 }
+
+#foot-links a:visited {
+  color: white;
+} 
 
 #heading {
   text-align: center;
