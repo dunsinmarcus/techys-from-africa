@@ -33,16 +33,6 @@ body {
 }
 }
 
-@media screen and (min-width: 769px) and (max-width: 1024px) {
-  #about {
-    margin: 0 30%;
-  }
-  
-  #team {
-    margin: 0 30%;
-  }
-}
-
 h1 {
   margin: 0;
   font-size: 40px;
