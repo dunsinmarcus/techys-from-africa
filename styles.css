@@ -1,4 +1,4 @@
-body {
+ body {
   margin: 0;
   font-family: 'Josefin Sans', sans-serif;
 }
@@ -23,7 +23,7 @@ body {
 }
 }
 
-@media screen and (min-width: 481px) {
+@media screen and (min-width: 481px) and (max-width: 768px){
   #about {
     margin: 0 10%;
   }
@@ -31,6 +31,26 @@ body {
     #team {
       margin: 0 10%;
 }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  #about {
+    margin: 0 20%;
+  }
+
+  #team {
+    margin: 0 20%;
+  }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1200px) {
+  #about {
+    margin: 0 30%;
+  }
+
+  #team {
+    margin: 0 30%;
+  }
 }
 
 h1 {
