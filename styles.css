@@ -18,6 +18,10 @@
   margin: 0 5%;
   }
   
+  #heading-description {
+    margin: 0 5%;
+}
+
   #team {
   margin: 0 5%;
 }
@@ -28,6 +32,10 @@
     margin: 0 10%;
   }
   
+  #heading-description {
+    margin: 0 10%;
+}
+
     #team {
       margin: 0 10%;
 }
@@ -38,6 +46,10 @@
     margin: 0 20%;
   }
 
+  #heading-description {
+    margin: 0 20%;
+}
+
   #team {
     margin: 0 20%;
   }
@@ -47,6 +59,10 @@
   #about {
     margin: 0 30%;
   }
+
+  #heading-description {
+    margin: 0 30%;
+}
 
   #team {
     margin: 0 30%;
